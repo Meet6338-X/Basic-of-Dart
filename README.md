@@ -30,20 +30,6 @@ me = findingfriendscoding()
 me = needcommunity()
 me.say_hi()
 ```
-<table>
-  <tr>
-    <td>
-      <img src="https://media1.tenor.com/m/tdIYCk9E_XEAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="300" height="169" alt="Demon Slayer GIF"/>
-    </td>
-    <td>
-      <img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="300" height="169" alt="Coding GIF"/>
-    </td>
-    <td>
-      <img src="https://media1.tenor.com/m/eQJns8923ioAAAAd/hacker-pc.gif" width="200" height="169" alt="Hacker GIF"/>
-    </td>
-  </tr>
-</table>
-
 # 💫 About Me:
 
 - 🔭 I’m currently working on **<img src="https://img.shields.io/badge/Developing_Skills-Level_UP-blue">**<br><br>
